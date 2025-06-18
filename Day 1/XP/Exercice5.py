@@ -1,11 +1,12 @@
 my_fav_numbers = {5, 10, 22}
 print("My favorite numbers:", my_fav_numbers)
 
-my_fav_numbers.add(42)
+my_fav_numbers.add(4)
+my_fav_numbers.add(8)
 print("After adding two numbers:", my_fav_numbers)
 
 
-my_fav_numbers.remove(42)
+my_fav_numbers.remove(8)
 print("After removing the last added number:", my_fav_numbers)
 
 
