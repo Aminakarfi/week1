@@ -1,7 +1,7 @@
 basket = ["Banana", "Apples", "Oranges", "Blueberries"]
 
 basket.remove("Banana")
-basket.remove("Blueberries")
+basket.pop(3)
 basket.append("Kiwi")
 basket.insert(0, "Apples")
 print("Apples count:", basket.count("Apples"))

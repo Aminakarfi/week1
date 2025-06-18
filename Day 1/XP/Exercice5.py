@@ -11,7 +11,7 @@ print("After removing the last added number:", my_fav_numbers)
 
 
 basmas_fav_numbers = {5, 10, 23}
-print("Friend's favorite numbers:", basmas_fav_numbers)
+print("Basma's favorite numbers:", basmas_fav_numbers)
 
 
 our_fav_numbers = my_fav_numbers.union(basmas_fav_numbers)

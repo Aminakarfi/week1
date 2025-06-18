@@ -3,7 +3,6 @@ names = ['Samus', 'Cortana', 'V', 'Link', 'Mario', 'Cortana', 'Samus']
 # Ask the user to enter their name
 user_name = input("Enter your name: ")
 
-# Check if the name is in the list
 if user_name in names:
     index = names.index(user_name)
     print(f"{user_name} found at index {index}.")
