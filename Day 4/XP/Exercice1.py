@@ -15,8 +15,6 @@ class Chartreux(Cat):
     pass
 
 
-
-
 siamese_obj= Siamese("Siamese",15)
 chartreux_obj = Chartreux("Chartreux",5)
 bengal_obj = Bengal("Bengal",15)
